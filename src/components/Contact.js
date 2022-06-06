@@ -12,21 +12,21 @@ const Contact = () => {
             veniam repudiandae vel ab id, fuga praesentium nobis natus ipsam
             vero?
           </p>
-          <form
-            className='contact-form'
-            action='your form spree id'
-            method='POST'
-          >
-            <input
-              type='email'
-              className='form-input'
-              placeholder='enter email'
-              name='_replyto'
-            />
-            <button type='submit' className='submit-btn'>
-              subscribe
-            </button>
-          </form>
+          {/*<form*/}
+          {/*  className='contact-form'*/}
+          {/*  action='your form spree id'*/}
+          {/*  method='POST'*/}
+          {/*>*/}
+          {/*  <input*/}
+          {/*    type='email'*/}
+          {/*    className='form-input'*/}
+          {/*    placeholder='enter email'*/}
+          {/*    name='_replyto'*/}
+          {/*  />*/}
+          {/*  <button type='submit' className='submit-btn'>*/}
+          {/*    subscribe*/}
+          {/*  </button>*/}
+          {/*</form>*/}
         </div>
       </div>
     </Wrapper>
